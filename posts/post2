@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ポケモン日記1 - こたつごはんの趣味ブログ</title>
+  <link rel="stylesheet" href="/css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>こたつごはんの趣味ブログ</h1>
+    <nav>
+      <a href="/index.html">ホーム</a><a href="/about.html">自己紹介</a>
+  </header>
+  <main>
+    <article>
+      <p>2025/03/17</p>
+      <h2>ポケモン日記1</h2>
+      <p>時間がなくて全くポケモンが出来ていない。</p>
+      <p>そのせいでスーパーボール級まで下がってしまった。悔しい。</p>
+      <p>時間が空いたらまたマスターボールまで上げたいな。頑張ります。</p>
+    </article>
+  </main>
+  <footer>
+    <p>&copy;2025 kotatsugohan | MIT License</p>
+  </footer>
+</body>
+</html>
